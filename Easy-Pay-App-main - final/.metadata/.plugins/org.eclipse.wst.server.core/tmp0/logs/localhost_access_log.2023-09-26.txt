@@ -1,0 +1,14 @@
+127.0.0.1 - - [26/Sep/2023:13:37:45 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [26/Sep/2023:13:37:46 +0530] "GET /Expense-Mng-Sys/ HTTP/1.1" 200 1313
+0:0:0:0:0:0:0:1 - - [26/Sep/2023:13:37:46 +0530] "GET /Expense-Mng-Sys/welcome.jpg HTTP/1.1" 200 29806
+0:0:0:0:0:0:0:1 - - [26/Sep/2023:13:37:46 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [26/Sep/2023:13:38:26 +0530] "GET /Expense-Mng-Sys/prep_log_form.htm HTTP/1.1" 200 1451
+0:0:0:0:0:0:0:1 - - [26/Sep/2023:13:38:26 +0530] "GET /Expense-Mng-Sys/29.jpg HTTP/1.1" 200 365664
+0:0:0:0:0:0:0:1 - - [26/Sep/2023:13:38:34 +0530] "POST /Expense-Mng-Sys/login.htm HTTP/1.1" 200 2267
+0:0:0:0:0:0:0:1 - - [26/Sep/2023:13:38:34 +0530] "GET /Expense-Mng-Sys/30.jpeg HTTP/1.1" 200 1676263
+0:0:0:0:0:0:0:1 - - [26/Sep/2023:13:43:54 +0530] "POST /Expense-Mng-Sys/login.htm HTTP/1.1" 200 2267
+0:0:0:0:0:0:0:1 - - [26/Sep/2023:13:59:54 +0530] "GET /Expense-Mng-Sys/prep_log_form.htm HTTP/1.1" 200 1451
+0:0:0:0:0:0:0:1 - - [26/Sep/2023:13:59:54 +0530] "GET /Expense-Mng-Sys/29.jpg HTTP/1.1" 200 365664
+0:0:0:0:0:0:0:1 - - [26/Sep/2023:13:59:55 +0530] "GET /Expense-Mng-Sys/ HTTP/1.1" 200 1313
+0:0:0:0:0:0:0:1 - - [26/Sep/2023:13:59:55 +0530] "GET /Expense-Mng-Sys/welcome.jpg HTTP/1.1" 200 29806
+0:0:0:0:0:0:0:1 - - [26/Sep/2023:14:00:05 +0530] "GET /Expense-Mng-Sys/prep_log_form.htm HTTP/1.1" 200 1451
